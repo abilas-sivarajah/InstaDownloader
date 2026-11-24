@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clipfang</string>
+    <string name="share_label">Mit Clipfang speichern</string>
+    <string name="tagline">Öffentliche Reels, Videos und Fotos speichern</string>
+    <string name="hint_link">Instagram-Link einfügen</string>
+    <string name="paste">Einfügen</string>
+    <string name="search">Suchen</string>
+    <string name="loading">Beitrag wird geladen …</string>
+    <string name="err_invalid">Das ist kein gültiger Link zu einem Instagram-Beitrag oder Reel.</string>
+    <string name="err_story">Stories sind nur mit Anmeldung sichtbar und werden nicht unterstützt.</string>
+    <string name="err_unavailable">Beitrag nicht verfügbar. Er ist privat, gelöscht oder darf nicht eingebettet werden.</string>
+    <string name="err_login">Instagram verlangt für diesen Beitrag eine Anmeldung. Clipfang lädt nur öffentliche Beiträge.</string>
+    <string name="err_blocked">Dieser Beitrag ist wegen Urheberrecht gesperrt.</string>
+    <string name="err_timeout">Instagram hat nicht rechtzeitig geantwortet. Bitte später erneut versuchen.</string>
+    <string name="err_network">Keine Verbindung. Bitte Internet prüfen.</string>
+    <string name="err_download">Download fehlgeschlagen. Tippen zum Wiederholen.</string>
+    <string name="save_video">Video speichern</string>
+    <string name="save_photo">Foto speichern</string>
+    <string name="save_numbered">%1$s (%2$d von %3$d)</string>
+    <string name="downloading">Lädt … %1$d %%</string>
+    <string name="downloading_unknown">Lädt …</string>
+    <string name="waiting">Wartet auf Verbindung …</string>
+    <string name="open">Gespeichert. Ansehen</string>
+    <string name="no_viewer">Keine App zum Öffnen gefunden. Die Datei liegt in der Galerie.</string>
+    <string name="footer">Nur für eigene Inhalte oder mit Erlaubnis der Urheber. Kein Konto, keine Werbung, kein Server dazwischen. Nicht mit Instagram oder Meta verbunden.</string>
+    <string name="thumb_desc">Vorschaubild des Beitrags</string>
+</resources>
